@@ -65,6 +65,3 @@ Thus, the function to perform right rotation in an AVL Tree is implemented succe
 
 
 
-
-## Result:
-Thus, the function to perform right rotation in an AVL Tree is implemented successfully.
